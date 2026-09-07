@@ -3,16 +3,16 @@
     "version":  "0.7.3",
     "tag":  "v0.7.3",
     "channel":  "stable",
-    "publishedAt":  "2026-09-07T09:33:06.1449482Z",
+    "publishedAt":  "2026-09-07T10:02:30.3699354Z",
     "installer":  {
                       "name":  "CodexRemote-Setup-Windows-x64-v0.7.3.exe",
-                      "sha256":  "cc71c2af87c104bf78ad40660078cb9676768985d2f9e46bebefca312ea277c1",
+                      "sha256":  "b593107946281df0b857c6a2cc60fcf42a4d0b2dce0dc25204969a0dbffa4d19",
                       "size":  37244928
                   },
     "portable":  {
                      "name":  "CodexRemote-Portable-Windows-x64-v0.7.3.zip",
-                     "sha256":  "3cab3a9830b3f76ad3d4f0a41cd2bec3fc0ba0b7920413a4b5021beec4df18c4",
-                     "size":  37750776
+                     "sha256":  "de0466f1c881e3898020ef640c90fedc07c66d3a6c3dded256692a238a6c8c88",
+                     "size":  37750899
                  },
     "checksums":  {
                       "name":  "SHA256SUMS.txt"
