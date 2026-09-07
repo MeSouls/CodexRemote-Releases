@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  1,
+    "version":  "0.7.3",
+    "tag":  "v0.7.3",
+    "channel":  "stable",
+    "publishedAt":  "2026-09-07T09:33:06.1449482Z",
+    "installer":  {
+                      "name":  "CodexRemote-Setup-Windows-x64-v0.7.3.exe",
+                      "sha256":  "cc71c2af87c104bf78ad40660078cb9676768985d2f9e46bebefca312ea277c1",
+                      "size":  37244928
+                  },
+    "portable":  {
+                     "name":  "CodexRemote-Portable-Windows-x64-v0.7.3.zip",
+                     "sha256":  "3cab3a9830b3f76ad3d4f0a41cd2bec3fc0ba0b7920413a4b5021beec4df18c4",
+                     "size":  37750776
+                 },
+    "checksums":  {
+                      "name":  "SHA256SUMS.txt"
+                  },
+    "releasePageUrl":  "https://github.com/MeSouls/CodexRemote/releases/tag/v0.7.3",
+    "releaseApiUrl":  "https://api.github.com/repos/MeSouls/CodexRemote/releases/tags/v0.7.3"
+}
